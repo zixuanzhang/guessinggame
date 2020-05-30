@@ -1,3 +1,5 @@
-Project: guessing game\n
-This makefile is ran on Fri May 29 20:04:49 EDT 2020\n
+Project: guessing game
+
+This makefile is ran on Fri May 29 20:08:34 EDT 2020
+
       25 lines in the guessinggame.sh file
